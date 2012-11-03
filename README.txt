@@ -1,0 +1,1 @@
+Just one more realization of the XML serelializer/deserelializer
